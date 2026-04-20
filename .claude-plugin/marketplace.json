@@ -1,18 +1,18 @@
 {
-    "name": "drmike-swe-plugins",
+    "name": "drmikeh-swe-plugins",
     "owner": {
         "name": "DevTools Team",
         "email": "devtools@example.com"
     },
     "plugins": [
         {
-            "name": "drmike-swe-plugin",
+            "name": "drmikeh-swe-plugin",
             "source": "./plugins/swe",
             "description": "Dr. Mike's SWE plugin for software engineering tasks.",
             "version": "1.0.0"
         },
         {
-            "name": "drmike-design-plugin",
+            "name": "drmikeh-design-plugin",
             "source": "./plugins/design",
             "description": "Dr. Mike's Design plugin for UX tasks.",
             "version": "1.0.0"

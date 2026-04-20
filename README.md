@@ -1,10 +1,10 @@
-# drmike-plugins
+# drmikeh-swe-plugins
 
 A monorepo containing custom Claude Code plugins by Dr. Mike Hopper.
 
 ## Plugins
 
-### `swe/` — drmike-swe-plugin
+### `swe/` — drmikeh-swe-plugin
 
 Skills, agents, commands, and hooks for software engineering workflows.
 
@@ -26,7 +26,7 @@ Skills, agents, commands, and hooks for software engineering workflows.
 
 ---
 
-### `design/` — drmike-design-plugin
+### `design/` — drmikeh-design-plugin
 
 Skills for UX design workflows, including user research, wireframing, prototyping, and design best practices.
 
