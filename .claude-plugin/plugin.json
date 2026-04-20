@@ -1,0 +1,8 @@
+{
+    "name": "drmike-swe-plugin",
+    "version": "1.0.0",
+    "description": "Skills related to software engineering, including code generation, debugging, and best practices.",
+    "author": "Dr. Mike Hopper",
+    "repository": "https://github.com/drmikeh/swe-plugin",
+    "license": "MIT"
+}
